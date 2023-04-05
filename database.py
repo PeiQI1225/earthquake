@@ -4,11 +4,12 @@
 import MySQLdb
 import MySQLdb.cursors
 
-HOSTNAME = "175.178.4.151"
+# mysql连接
+HOSTNAME = "xxx.xxx.xxx.xxx"  
 PORT = 3306
 DATABASE = "earthquake"
 USERNAME = "root"
-PASSWORD = "2001G1225"
+PASSWORD = "xxxxxxxxx"
 
 '''
 Insert items into database
